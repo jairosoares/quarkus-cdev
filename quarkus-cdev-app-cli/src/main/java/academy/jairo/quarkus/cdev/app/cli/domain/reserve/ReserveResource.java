@@ -1,7 +1,7 @@
-package academy.jairo.quarkus.cdev.cli.domain.reserve;
+package academy.jairo.quarkus.cdev.app.cli.domain.reserve;
 
-import academy.jairo.quarkus.cdev.cli.domain.client.Client;
-import academy.jairo.quarkus.cdev.cli.domain.client.ClientService;
+import academy.jairo.quarkus.cdev.app.cli.domain.client.Client;
+import academy.jairo.quarkus.cdev.app.cli.domain.client.ClientService;
 import org.eclipse.microprofile.rest.client.inject.RestClient;
 
 import javax.inject.Inject;

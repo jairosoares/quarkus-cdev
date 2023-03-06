@@ -1,4 +1,4 @@
-package academy.jairo.quarkus.cdev.cli.domain.client;
+package academy.jairo.quarkus.cdev.app.cli.domain.client;
 
 import org.eclipse.microprofile.rest.client.inject.RestClient;
 

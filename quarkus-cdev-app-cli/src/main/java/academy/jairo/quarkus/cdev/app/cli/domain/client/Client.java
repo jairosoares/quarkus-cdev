@@ -1,4 +1,4 @@
-package academy.jairo.quarkus.cdev.cli.domain.client;
+package academy.jairo.quarkus.cdev.app.cli.domain.client;
 
 public class Client {
 
