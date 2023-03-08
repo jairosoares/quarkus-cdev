@@ -1,1 +1,5 @@
-/home/jairo/Mega/jairo.soares/workspace/stack/quarkus/experiments/quarkus-cdev-ms1/src/main/java/academy/jairo/GreetingResource.java
+/home/jairo/Mega/jairo.soares/workspace/stack/quarkus/experiments/quarkus-cdev/quarkus-cdev-ms-one/src/main/java/academy/jairo/quarkus/cdev/ms/one/Readiness.java
+/home/jairo/Mega/jairo.soares/workspace/stack/quarkus/experiments/quarkus-cdev/quarkus-cdev-ms-one/src/main/java/academy/jairo/quarkus/cdev/ms/one/GreetingResource.java
+/home/jairo/Mega/jairo.soares/workspace/stack/quarkus/experiments/quarkus-cdev/quarkus-cdev-ms-one/src/main/java/academy/jairo/quarkus/cdev/ms/one/domain/client/ClientResource.java
+/home/jairo/Mega/jairo.soares/workspace/stack/quarkus/experiments/quarkus-cdev/quarkus-cdev-ms-one/src/main/java/academy/jairo/quarkus/cdev/ms/one/LiveCheck.java
+/home/jairo/Mega/jairo.soares/workspace/stack/quarkus/experiments/quarkus-cdev/quarkus-cdev-ms-one/src/main/java/academy/jairo/quarkus/cdev/ms/one/domain/client/Client.java

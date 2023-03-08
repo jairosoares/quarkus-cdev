@@ -18,7 +18,8 @@ public class ClientResource {
     @GET
     @Produces(MediaType.APPLICATION_JSON)
     @Path("findById")
-    public Client findById(@QueryParam("id") long id) {
+    public Client findById(@QueryParam("id") long id) throws InterruptedException {
+        //Thread.sleep(5000);
         return Client.findById(id);
     }
 

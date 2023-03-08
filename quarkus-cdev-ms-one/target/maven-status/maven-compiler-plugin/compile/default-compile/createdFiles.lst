@@ -1,2 +1,6 @@
+academy/jairo/quarkus/cdev/ms/one/domain/client/ClientResource.class
+academy/jairo/quarkus/cdev/ms/one/Readiness.class
+academy/jairo/quarkus/cdev/ms/one/LiveCheck.class
+academy/jairo/quarkus/cdev/ms/one/domain/client/Client.class
 META-INF/panache-archive.marker
-academy/jairo/GreetingResource.class
+academy/jairo/quarkus/cdev/ms/one/GreetingResource.class
